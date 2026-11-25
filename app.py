@@ -229,10 +229,11 @@ if st.button("🔍 Predict Loan Default"):
         )
 
     else:
-
+#ffffffffffffffffffffffffffffffffffff
         st.error(
             "⚠️ The applicant is predicted to DEFAULT on the loan."
         )
+        
 
 #          Input                      |       Value |
 # | -------------------------- | ----------: |
